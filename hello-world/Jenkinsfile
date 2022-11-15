@@ -31,7 +31,6 @@ pipeline {
                 echo 'Save the assemblies generated from the compilation'
                 echo 'changes done'
                 echo 'done'
-                ,,,,,
             }
         }
     }
